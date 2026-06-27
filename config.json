@@ -1,0 +1,17 @@
+{
+  "title": "Collective Action and Cooperation",
+  "description": "A knowledge base on realising opportunities for coordination — and understanding why we fail.",
+  "showBacklinks": true,
+  "showToc": true,
+  "enableSearch": true,
+  "enableRss": true,
+  "showBuiltWithButton": false,
+  "social": [
+    { "label": "GitHub", "url": "https://github.com/life-itself/collective-action" }
+  ],
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "/" }
+    ]
+  }
+}
